@@ -1,0 +1,4 @@
+com\wzg\service\base\BaseServiceImpl.class
+com\wzg\service\base\BaseService.class
+com\wzg\service\impl\UserServiceImpl.class
+com\wzg\service\UserService.class

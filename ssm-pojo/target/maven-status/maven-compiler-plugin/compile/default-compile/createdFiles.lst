@@ -1,0 +1,5 @@
+com\wzg\pojo\User.class
+com\wzg\pojo\UserExample.class
+com\wzg\pojo\UserExample$Criteria.class
+com\wzg\pojo\UserExample$Criterion.class
+com\wzg\pojo\UserExample$GeneratedCriteria.class
